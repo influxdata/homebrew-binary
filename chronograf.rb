@@ -1,13 +1,13 @@
 class Chronograf < Formula
   desc "The data visualization tool for InfluxDB"
-  homepage "https://influxdb.com/chronograf/index.html"
-  url "https://s3.amazonaws.com/get.influxdb.org/chronograf/chronograf-0.4.0-darwin_amd64.tar.gz"
-  sha256 "4f1667bece9a749a6ecefa8b2cf45c17123450436bedc3bd35cf2d8cfb5a25ab"
+  homepage "https://influxdata.com/time-series-platform/chronograf/"
+  url "https://s3.amazonaws.com/get.influxdb.org/chronograf/chronograf-0.10.0-darwin_amd64.tar.gz"
+  sha256 "d616b870fe37cafe24402f47e2d4fa4966d48a437327c7d8138e68ad2e476998"
 
   bottle :unneeded
 
   def install
-    bin.install "chronograf-0.4.0-darwin_amd64" => "chronograf"
+    bin.install "chronograf-0.10.0-darwin_amd64" => "chronograf"
     etc.install "chronograf.toml"
   end
 
