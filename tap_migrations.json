@@ -1,3 +1,4 @@
 {
-  "adobe-air-sdk": "caskroom/cask"
+  "adobe-air-sdk": "caskroom/cask",
+  "chronograf": "homebrew/core"
 }
