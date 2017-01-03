@@ -1,4 +1,5 @@
 {
   "adobe-air-sdk": "caskroom/cask",
-  "prince": "caskroom/cask"
+  "prince": "caskroom/cask",
+  "ngrok2": "caskroom/cask/ngrok"
 }
