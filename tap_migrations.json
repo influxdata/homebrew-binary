@@ -1,5 +1,6 @@
 {
   "adobe-air-sdk": "caskroom/cask",
+  "grenchman": "caskroom/cask",
   "prince": "caskroom/cask",
   "ngrok2": "caskroom/cask/ngrok",
   "rar": "caskroom/cask"
