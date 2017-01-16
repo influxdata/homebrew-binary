@@ -1,6 +1,10 @@
 {
   "adobe-air-sdk": "caskroom/cask",
+  "cmucl": "caskroom/cask",
   "grenchman": "caskroom/cask",
+  "jsl": "caskroom/cask",
+  "kindlegen": "caskroom/cask",
+  "perforce": "caskroom/cask",
   "prince": "caskroom/cask",
   "ngrok2": "caskroom/cask/ngrok",
   "rar": "caskroom/cask"
