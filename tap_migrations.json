@@ -1,7 +1,9 @@
 {
   "adobe-air-sdk": "caskroom/cask",
   "cmucl": "caskroom/cask",
+  "grads": "caskroom/cask",
   "grenchman": "caskroom/cask",
+  "jad": "caskroom/cask",
   "jsl": "caskroom/cask",
   "kindlegen": "caskroom/cask",
   "perforce": "caskroom/cask",
