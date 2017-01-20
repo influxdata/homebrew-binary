@@ -6,6 +6,7 @@
   "jad": "caskroom/cask",
   "jsl": "caskroom/cask",
   "kindlegen": "caskroom/cask",
+  "kwm": "koekeishiya/formulae",
   "perforce": "caskroom/cask",
   "perforce-server": "caskroom/cask/perforce",
   "prince": "caskroom/cask",
