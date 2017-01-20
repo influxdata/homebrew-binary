@@ -7,6 +7,7 @@
   "jsl": "caskroom/cask",
   "kindlegen": "caskroom/cask",
   "perforce": "caskroom/cask",
+  "erforce-server": "caskroom/cask/perforce",
   "prince": "caskroom/cask",
   "ngrok2": "caskroom/cask/ngrok",
   "rar": "caskroom/cask"
