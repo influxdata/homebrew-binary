@@ -11,5 +11,6 @@
   "perforce-server": "caskroom/cask/perforce",
   "prince": "caskroom/cask",
   "ngrok2": "caskroom/cask/ngrok",
-  "rar": "caskroom/cask"
+  "rar": "caskroom/cask",
+  "subgit": "caskroom/cask"
 }
