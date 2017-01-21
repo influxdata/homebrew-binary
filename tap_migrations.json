@@ -1,6 +1,7 @@
 {
   "adobe-air-sdk": "caskroom/cask",
   "cmucl": "caskroom/cask",
+  "eventstore": "caskroom/cask",
   "grads": "caskroom/cask",
   "grenchman": "caskroom/cask",
   "jad": "caskroom/cask",
