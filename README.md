@@ -1,5 +1,6 @@
-# Homebrew Binary (deprecated)
-This tap provided binary installs of software that, for whatever reason, weren't available as source builds in the primary repository.
+# Homebrew/binary (deprecated)
+These formulae were binary installs of software that, for whatever reason, weren't available as source builds.
 
-We now recommend using [Homebrew Cask](https://github.com/caskroom/homebrew-cask) instead.
-This will be auto-installed by Homebrew when running `brew cask`.
+This tap was deprecated because [Homebrew Cask](https://github.com/caskroom/homebrew-cask) handles this use-case better.
+All
+formulae will be migrated to [caskroom/homebrew-cask](https://github.com/caskroom/homebrew-cask).

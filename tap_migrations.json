@@ -1,4 +1,18 @@
 {
   "adobe-air-sdk": "caskroom/cask",
-  "chronograf": "homebrew/core"
+  "chronograf": "homebrew/core",
+  "cmucl": "caskroom/cask",
+  "eventstore": "caskroom/cask",
+  "grads": "caskroom/cask",
+  "grenchman": "caskroom/cask",
+  "jad": "caskroom/cask",
+  "jsl": "caskroom/cask",
+  "kindlegen": "caskroom/cask",
+  "kwm": "koekeishiya/formulae",
+  "perforce": "caskroom/cask",
+  "perforce-server": "caskroom/cask/perforce",
+  "prince": "caskroom/cask",
+  "ngrok2": "caskroom/cask/ngrok",
+  "rar": "caskroom/cask",
+  "subgit": "caskroom/cask"
 }
