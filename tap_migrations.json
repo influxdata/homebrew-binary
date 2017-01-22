@@ -1,6 +1,6 @@
 {
   "adobe-air-sdk": "caskroom/cask",
-  "chronograf": "homebrew/core",
+  "chronograf": "caskroom/cask",
   "cmucl": "caskroom/cask",
   "eventstore": "caskroom/cask",
   "grads": "caskroom/cask",
